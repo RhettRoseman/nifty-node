@@ -19,17 +19,18 @@ THEN you will be taken to a page
 
 ## Screenshots
 
-home.html
+##### home.html
 
 
 ![htmlniftynodescreenshot](https://github.com/RhettRoseman/nifty-node/assets/140462841/d5e7f2f3-4926-4f08-958f-b865d63cd61c)
 
+##### index.js
+
+![indexjsniftynodescreenshot](https://github.com/RhettRoseman/nifty-node/assets/140462841/17bec2c0-f7d2-4ca1-abdd-0c344106299e)
 
 
-index.js
+##### Browser
 
-
-![indexjsniftynodescreenshot](https://github.com/RhettRoseman/nifty-node/assets/140462841/af5d6891-256c-423b-bc44-d58b58661980)
-
+![localhostniftynodescreenshot](https://github.com/RhettRoseman/nifty-node/assets/140462841/6122e837-40fc-4d4a-8ebe-2cffb3a0e5d6)
 
 
