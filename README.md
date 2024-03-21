@@ -22,10 +22,14 @@ THEN you will be taken to a page
 home.html
 
 
+![htmlniftynodescreenshot](https://github.com/RhettRoseman/nifty-node/assets/140462841/d5e7f2f3-4926-4f08-958f-b865d63cd61c)
+
+
 
 index.js
 
 
+![indexjsniftynodescreenshot](https://github.com/RhettRoseman/nifty-node/assets/140462841/af5d6891-256c-423b-bc44-d58b58661980)
 
 
 
